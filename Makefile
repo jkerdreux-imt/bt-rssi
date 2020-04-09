@@ -11,3 +11,4 @@ install:bt-rssi
 
 uninstall:
 	@echo "Uninstalling bt-rssi"
+	rm /usr/local/bin/bt-rssi
